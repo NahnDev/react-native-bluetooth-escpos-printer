@@ -487,7 +487,7 @@ public class RNBluetoothEscposPrinterModule extends ReactContextBaseJavaModule
 
     /****************************************************************************************************/
 
-    private static class ColumnSplitedString{
+    public static class ColumnSplitedString{
         private int shorter;
         private String str;
 
